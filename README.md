@@ -91,6 +91,8 @@ Random Forest achieved the best prediction accuracy.
 ![Model Comparison](images/R2_model_comparison.png)
 ![Model Comparison](images/RMSE_model_comparison.png)
 
+---
+
 ## Key Insights
 - Western region generated the highest revenue.
 - Technology category produced higher profit margins compared to other categories.
