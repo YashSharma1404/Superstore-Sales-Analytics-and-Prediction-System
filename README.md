@@ -80,7 +80,7 @@ Random Forest achieved the best prediction accuracy.
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Dashboard.png)
 
 ## Sales Trend Analysis
 
